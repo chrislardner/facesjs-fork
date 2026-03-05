@@ -111,16 +111,18 @@ const drawFeature = (
     return;
   }
   if (
-    ["hat", "hat2", "hat3"].includes(face.accessories.id) &&
+    ["hat", "hat2", "hat3", "santa-hat"].includes(face.accessories.id) &&
     info.name == "hair"
   ) {
     if (
       [
         "afro",
         "afro2",
+        "afro3",
         "curly",
         "curly2",
         "curly3",
+        "curly4",
         "faux-hawk",
         "hair",
         "high",
@@ -142,6 +144,7 @@ const drawFeature = (
     } else if (
       [
         "blowoutFade",
+        "blowoutFade2",
         "curlyFade1",
         "curlyFade2",
         "dreads",
