@@ -196,10 +196,8 @@ export const genders = {
   hair: {
     afro: "male",
     afro2: "both",
-    afro3: "both",
     bald: "male",
     blowoutFade: "male",
-    blowoutFade2: "male",
     cornrows: "both",
     "crop-fade": "male",
     "crop-fade2": "male",
@@ -207,7 +205,6 @@ export const genders = {
     curly: "both",
     curly2: "both",
     curly3: "both",
-    curly4: "both",
     curlyFade1: "male",
     curlyFade2: "male",
     dreads: "male",

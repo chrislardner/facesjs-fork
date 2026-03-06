@@ -118,11 +118,9 @@ const drawFeature = (
       [
         "afro",
         "afro2",
-        "afro3",
         "curly",
         "curly2",
         "curly3",
-        "curly4",
         "faux-hawk",
         "hair",
         "high",
@@ -144,7 +142,6 @@ const drawFeature = (
     } else if (
       [
         "blowoutFade",
-        "blowoutFade2",
         "curlyFade1",
         "curlyFade2",
         "dreads",
